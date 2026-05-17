@@ -17,7 +17,7 @@ This is how the final schematic looks!
 Lapse Recordings: <br>
 1: https://lapse.hackclub.com/timelapse/jdswf-fMJJHO <br>
 2: https://lapse.hackclub.com/timelapse/13oOmpYv-CHt <br>
-3: https://lapse.hackclub.com/timelapse/Dv3f0_goTeu_ <br>
+3: https://lapse.hackclub.com/timelapse/Dv3f0_goTeu_/ <br>
 
 
 **Time Spent: 2h 10min**
