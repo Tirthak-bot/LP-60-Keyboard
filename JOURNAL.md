@@ -12,5 +12,12 @@ Also got started on finding and assigning the footprints!
 This is how the final schematic looks!
 
 <img width="4961" height="3509" alt="Schematic_page-0001" src="https://github.com/user-attachments/assets/6b49413c-46b1-4eb4-9891-7b22977dbc73" />
+<br>
+
+Lapse Recordings: <br>
+1: https://lapse.hackclub.com/timelapse/jdswf-fMJJHO <br>
+2: https://lapse.hackclub.com/timelapse/13oOmpYv-CHt <br>
+3: https://lapse.hackclub.com/timelapse/Dv3f0_goTeu_ <br>
+
 
 **Time Spent: 2h 10min**
